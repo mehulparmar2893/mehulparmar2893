@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mehulkumar Parmar</h1>
+<h1 align="center">MEHULKUMAR PARMAR</h1>
+<h3 align="center">Senior Software Engineer | Microservices | Cloud | Generative AI (Spring AI)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4B8BBE&size=24&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer+%7C+Microservices+%7C+Cloud+%7C+Generative+AI+(Spring+AI)" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4B8BBE&size=24&center=true&vCenter=true&width=900&lines=Java+%7C+Spring+Boot+%7C+Microservices;Cloud+Engineering+%7C+AWS+%7C+GCP+%7C+Kubernetes;Exploring+Generative+AI+%7C+Spring+AI;Building+Scalable+Backend+Systems" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mehulparmar2893&label=Profile%20Views&color=5A5A5A&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehulparmar2893/mehulparmar2893/main/banner.png" width="850" />
+</p>
+
 ---
 
 ## 🚀 About Me
-- 🔭 Senior Software Engineer at **IBM**
-- 💡 9.5+ years of experience in **enterprise application development**
-- 🧩 Specialized in **Java, Spring Boot, Microservices architecture**
-- ☁️ Hands-on with **AWS, GCP, Kubernetes, OpenShift**
-- 👨‍💻 Experience in **team leadership, code reviews, deployments, production support**
-- 📈 Focused on **scalable, maintainable, cloud-native systems**
+- Senior Software Engineer with **9.5+ years** of experience in enterprise application development  
+- Strong expertise in **Java, Spring Boot, Microservices architecture**  
+- Experienced in **cloud-native systems** using AWS, GCP, Kubernetes, and OpenShift  
+- Proven track record in **team leadership, code reviews, and production support**  
+- Currently exploring **Generative AI integration using Spring AI**  
 
 ---
 
@@ -27,9 +31,18 @@
 
 ---
 
+## 🎯 Current Focus
+- Building scalable backend systems with **Java & Spring Boot**  
+- Designing **microservices and distributed architectures**  
+- Exploring **Generative AI + Spring AI integration**  
+- Learning **Agentic AI workflows and enterprise AI patterns**  
+- Strengthening expertise in **cloud-native deployments**  
+
+---
+
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Frameworks
+### 👨‍💻 Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-3A3A3A?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3A3A3A?style=for-the-badge&logo=spring&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-5A5A5A?style=for-the-badge)
@@ -51,18 +64,40 @@
 
 ## 🧠 Architecture & Concepts
 - Microservices Architecture  
-- CQRS & SAGA Pattern  
-- Event-driven systems (Kafka)  
-- Distributed system design  
-- SOLID & Design Patterns  
+- CQRS & SAGA Patterns  
+- Event-Driven Systems (Kafka)  
+- Distributed System Design  
+- SOLID Principles & Design Patterns  
 
 ---
 
-## 🏆 Certifications
-- AWS Certified Solution Architect  
-- Google Cloud Professional Architect  
-- Google Cloud Engineer  
-- Certified Kubernetes Administrator  
+## 💼 Professional Highlights
+- 9.5+ years of experience in enterprise software engineering  
+- Experience leading **microservices component teams**  
+- Strong exposure to **production support and deployment pipelines**  
+- Hands-on experience with **IBM MDM systems and enterprise environments**  
+- Certified in **AWS, GCP, and Kubernetes**  
+
+---
+
+## 🚧 Featured Projects (In Progress)
+- **Spring AI Chat Service**  
+  → Java + Spring Boot application integrating LLM APIs and prompt workflows  
+
+- **Event-Driven Microservices System**  
+  → Kafka-based architecture implementing Saga and CQRS patterns  
+
+- **Cloud-Native Deployment Demo**  
+  → Containerized microservices deployed on Kubernetes / OpenShift  
+
+---
+
+## 📚 Currently Learning
+- Spring AI  
+- Generative AI application patterns  
+- Agentic AI workflows  
+- Python for AI prototyping  
+- Enterprise AI system design  
 
 ---
 
@@ -91,4 +126,4 @@
 ---
 
 ## 💡 Quote
-> "Designing scalable systems with clarity, discipline, and impact."
+> "Designing scalable systems with clarity, discipline, and real-world impact."

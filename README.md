@@ -38,34 +38,55 @@
 
 ## 🛠️ Tech Stack
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B8BBE,100:1E1E1E&height=2"/>
+
 ### 👨‍💻 Backend & Frameworks
-![Java](https://img.shields.io/badge/Java-3A3A3A?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3A3A3A?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-5A5A5A?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-Architecture-0078D4?style=for-the-badge"/>
+</p>
+
+---
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-3A3A3A?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-3A3A3A?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3A3A3A?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3A3A3A?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-3A3A3A?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+</p>
+
+---
 
 ### ⚙️ Tools & Technologies
-![Kafka](https://img.shields.io/badge/Kafka-3A3A3A?style=for-the-badge&logo=apachekafka)
-![MySQL](https://img.shields.io/badge/MySQL-3A3A3A?style=for-the-badge&logo=mysql&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-3A3A3A?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3A3A3A?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,mysql,jenkins,git" />
+</p>
 
 ---
 
-## 🧠 Architecture & Concepts
-- Microservices Architecture  
-- CQRS & SAGA Patterns  
-- Event-Driven Systems (Kafka)  
-- Distributed System Design  
-- SOLID Principles & Design Patterns  
+### 🤖 Generative AI & Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring AI-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic AI-5A5A5A?style=for-the-badge"/>
+</p>
 
 ---
+
+### 📐 Architecture & Concepts
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-5A5A5A?style=flat"/>
+  <img src="https://img.shields.io/badge/CQRS-5A5A5A?style=flat"/>
+  <img src="https://img.shields.io/badge/SAGA-5A5A5A?style=flat"/>
+  <img src="https://img.shields.io/badge/Event Driven-5A5A5A?style=flat"/>
+  <img src="https://img.shields.io/badge/Distributed Systems-5A5A5A?style=flat"/>
+</p>
+
 
 ## 💼 Professional Highlights
 - 9.5+ years of experience in enterprise software engineering  

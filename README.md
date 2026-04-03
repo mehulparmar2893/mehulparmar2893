@@ -22,7 +22,7 @@
 
 ## 🖼️ Banner
 <p align="center">
-  <img src="PASTE_IMAGE_URL_HERE" width="800" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFVq-dKUd-6AA/feedshare-shrink_800/B4DZ0sgEgxKUAc-/0/1774568098225?e=2147483647&t=mjvb0UFMuZ1qN8uX0vEjFbRXGHjmHZ7sfML40qsOpkA&v=beta" width="850" />
 </p>
 
 ---

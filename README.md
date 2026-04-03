@@ -126,13 +126,6 @@
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehulparmar2893&theme=github" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/mehulkumar-parmar-816727b7/" target="blank">

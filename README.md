@@ -9,10 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=mehulparmar2893&label=Profile%20Views&color=5A5A5A&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mehulparmar2893/mehulparmar2893/main/banner.png" width="850" />
-</p>
-
 ---
 
 ## 🚀 About Me

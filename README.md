@@ -22,7 +22,7 @@
 
 ## 🖼️ Banner
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
+  <img src="PASTE_IMAGE_URL_HERE" width="800" />
 </p>
 
 ---

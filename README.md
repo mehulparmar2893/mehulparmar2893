@@ -1,15 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mehulkumar Parmar</h1>
-<h3 align="center">Senior Software Engineer | Java | Microservices | Cloud</h3>
+<h1 align="center">Hi 👋, I'm MEHULKUMAR PARMAR</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Cloud+%7C+AWS+%7C+GCP+%7C+Kubernetes;9.5%2B+Years+Experience;Building+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehulparmar2893&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working as **Senior Software Engineer at IBM**
-- 💡 9.5+ years of experience in building **enterprise-grade applications**
-- 🧩 Expertise in **Java, Spring Boot, Microservices architecture**
-- ☁️ Strong hands-on with **AWS, GCP, Kubernetes, OpenShift**
-- 👨‍💻 Leading teams, doing **code reviews, deployments, and production support**
-- 📈 Passionate about **scalable system design & cloud-native solutions**
+- 🔭 Senior Software Engineer at **IBM**
+- 💡 9.5+ years building **enterprise-grade applications**
+- 🧩 Expert in **Java, Spring Boot, Microservices**
+- ☁️ Cloud experience: **AWS, GCP, Kubernetes, OpenShift**
+- 👨‍💻 Leading teams, code reviews, deployments & production support
+- 📈 Focused on **scalable system design & cloud-native architecture**
+
+---
+
+## 🖼️ Banner
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</p>
 
 ---
 
@@ -45,15 +59,14 @@
 ---
 
 ## 🏆 Certifications
-- 🥇 AWS Certified Solution Architect  
-- 🥇 Google Cloud Professional Architect  
-- 🥇 Google Cloud Engineer  
-- 🥇 Certified Kubernetes Administrator  
+- AWS Certified Solution Architect  
+- Google Cloud Professional Architect  
+- Google Cloud Engineer  
+- Certified Kubernetes Administrator  
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehulparmar2893&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehulparmar2893&theme=tokyonight" />
@@ -61,14 +74,21 @@
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehulparmar2893&theme=tokyo-night" />
+</p>
+
+---
+
 ## 🔗 Connect with Me
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/mehulkumar-parmar-816727b7/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
 ## 💡 Quote
-> "Building scalable systems is not just coding, it's engineering the future."
+> "Engineering scalable systems with precision and purpose."

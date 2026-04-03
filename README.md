@@ -1,28 +1,28 @@
 <h1 align="center">Hi 👋, I'm MEHULKUMAR PARMAR</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Cloud+%7C+AWS+%7C+GCP+%7C+Kubernetes;9.5%2B+Years+Experience;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4B8BBE&size=24&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Cloud+Engineering+%7C+AWS+%7C+GCP+%7C+Kubernetes;9.5%2B+Years+Experience" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehulparmar2893&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mehulparmar2893&label=Profile%20Views&color=5A5A5A&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🔭 Senior Software Engineer at **IBM**
-- 💡 9.5+ years building **enterprise-grade applications**
-- 🧩 Expert in **Java, Spring Boot, Microservices**
-- ☁️ Cloud experience: **AWS, GCP, Kubernetes, OpenShift**
-- 👨‍💻 Leading teams, code reviews, deployments & production support
-- 📈 Focused on **scalable system design & cloud-native architecture**
+- 💡 9.5+ years of experience in **enterprise application development**
+- 🧩 Specialized in **Java, Spring Boot, Microservices architecture**
+- ☁️ Hands-on with **AWS, GCP, Kubernetes, OpenShift**
+- 👨‍💻 Experience in **team leadership, code reviews, deployments, production support**
+- 📈 Focused on **scalable, maintainable, cloud-native systems**
 
 ---
 
 ## 🖼️ Banner
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
 </p>
 
 ---
@@ -30,22 +30,22 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-3A3A3A?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3A3A3A?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-5A5A5A?style=for-the-badge)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-3A3A3A?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-3A3A3A?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3A3A3A?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3A3A3A?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-3A3A3A?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
 ### ⚙️ Tools & Technologies
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-3A3A3A?style=for-the-badge&logo=apachekafka)
+![MySQL](https://img.shields.io/badge/MySQL-3A3A3A?style=for-the-badge&logo=mysql&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-3A3A3A?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3A3A3A?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -68,15 +68,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehulparmar2893&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehulparmar2893&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehulparmar2893&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehulparmar2893&theme=default" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehulparmar2893&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehulparmar2893&theme=github" />
 </p>
 
 ---
@@ -91,4 +91,4 @@
 ---
 
 ## 💡 Quote
-> "Engineering scalable systems with precision and purpose."
+> "Designing scalable systems with clarity, discipline, and impact."

@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm MEHULKUMAR PARMAR</h1>
+<h1 align="center">Hi 👋, I'm Mehulkumar Parmar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4B8BBE&size=24&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Cloud+Engineering+%7C+AWS+%7C+GCP+%7C+Kubernetes;9.5%2B+Years+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4B8BBE&size=24&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer+%7C+Microservices+%7C+Cloud+%7C+Generative+AI+(Spring+AI)" />
 </p>
 
 <p align="center">
